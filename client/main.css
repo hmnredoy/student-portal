@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.flatpickr-monthDropdown-months {
+    width: 12ch !important;
+    display: inline-block !important;
+    padding-bottom: 11px !important;
+}
